@@ -1,7 +1,7 @@
 import sys
 import os
 
-os.environ['SPARK_HOME'] ="/usr/local/spark"
+os.environ['SPARK_HOME'] ="/usr/local/share/spark"
 
 sys.path.append("/usr/lib/spark/python")
 
